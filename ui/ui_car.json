@@ -16,10 +16,10 @@
   "specs": {
     "bhp": "246 bhp",
     "torque": "360 Nm",
-    "weight": "1275 kg",
+    "weight": "1308 kg",
     "topspeed": "250+km/h",
     "acceleration": "6.0 0-100",
-    "pwratio": "5.18 kg/hp",
+    "pwratio": "5.32 kg/hp",
     "range": 80
   },
   "torqueCurve": [
